@@ -1,3 +1,4 @@
+import { describe, expect, test } from "@jest/globals";
 const factorial = require("../src");
 
 describe("factorial function", () => {
